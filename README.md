@@ -19,6 +19,6 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 3. Build and run the project: `mvn spring-boot:run`
 
 
-## Error Handling Check2
+## Error Handling Check3
 
 The API implements global exception handling for common error scenarios, such as account not found, unauthorized access, and insufficient balance.
