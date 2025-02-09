@@ -11,6 +11,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 public class BankingportalApplication {
 
 	public static void main(String[] args) {
+		System.out.println("WeHook activated");
 		SpringApplication.run(BankingportalApplication.class, args);
 	}
 
